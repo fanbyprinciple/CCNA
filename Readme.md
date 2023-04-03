@@ -1,7 +1,15 @@
-Will update networking stuff here
+What is a network?
 
-Maybe add stuff drim ccna books and notes.
+Interconnectino of devices via a medium.
+The device can be end device and N/W device.
 
-Did router on a stick today finally. 
+What is the difference between a router and L3 switch
 
-Can I use gpt4all repo.
+Both do routing but a router has ethernet and serial port supporting WAN side traffic, not usually found in a switch.
+
+What is theprinciple of firewall?
+
+filtering : at application level
+and forwarding : at network level
+
+
